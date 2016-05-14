@@ -1,0 +1,10 @@
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\bin\Debug\FixInitiator.exe.config
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\bin\Debug\FixInitiator.exe
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\bin\Debug\FixInitiator.pdb
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\bin\Debug\quickfix_net.dll
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\bin\Debug\quickfix_net_messages.dll
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.csprojResolveAssemblyReference.cache
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.Properties.Resources.resources
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.csproj.GenerateResource.Cache
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.exe
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.pdb

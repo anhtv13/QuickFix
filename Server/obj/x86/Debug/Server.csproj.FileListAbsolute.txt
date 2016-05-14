@@ -1,0 +1,8 @@
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\bin\Debug\FixAcceptor.exe.config
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\bin\Debug\FixAcceptor.exe
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\bin\Debug\FixAcceptor.pdb
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\bin\Debug\quickfix_net.dll
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\bin\Debug\quickfix_net_messages.dll
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\obj\x86\Debug\FixAcceptor.exe
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\obj\x86\Debug\FixAcceptor.pdb
+C:\Users\anhtv\Desktop\QuickFix\QuickFix\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

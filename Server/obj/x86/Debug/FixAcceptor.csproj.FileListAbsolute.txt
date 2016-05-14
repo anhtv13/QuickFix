@@ -1,0 +1,7 @@
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixAcceptor\bin\Debug\FixAcceptor.exe.config
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixAcceptor\bin\Debug\FixAcceptor.exe
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixAcceptor\bin\Debug\FixAcceptor.pdb
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixAcceptor\bin\Debug\quickfix_net.dll
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixAcceptor\bin\Debug\quickfix_net_messages.dll
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixAcceptor\obj\x86\Debug\FixAcceptor.exe
+C:\Users\anhtv\Desktop\FixInitiator\FixInitiator\FixAcceptor\obj\x86\Debug\FixAcceptor.pdb
